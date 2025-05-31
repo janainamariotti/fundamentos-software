@@ -1,0 +1,46 @@
+body {
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  color: #2c3e50;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  text-align: justify;
+}
+
+ul {
+  line-height: 2em;
+}
+
+img {
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+table {
+  margin-top: 20px;
+  border-collapse: collapse;
+  width: 60%;
+  border: 1px solid #ccc;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #1abc9c;
+}
